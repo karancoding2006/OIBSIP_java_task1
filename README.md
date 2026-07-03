@@ -46,19 +46,6 @@ To build a console-based Online Reservation System in Java using four classes fo
 
 ---
 
-## Project Structure
-
-```
-OnlineReservation/
-│
-├── User.java               # Login credentials and authentication
-├── Ticket.java             # Reservation record with display method
-├── ReservationSystem.java  # Reservation, cancellation, and view logic
-└── ReservationMain.java    # Entry point — login flow and main menu
-```
-
----
-
 ## How to Run
 
 ```bash
